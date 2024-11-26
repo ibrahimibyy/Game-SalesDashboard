@@ -21,6 +21,6 @@ This Power BI dashboard analyzes global game sales across genres, platforms, pub
 This dashboard provides a comprehensive view of sales trends and supports decision-making for marketing strategies, platform investments, and product development.  
 
 ### **Live Demo & Repository**  
-[**Explore the Dashboard**](#link-to-demo) | [**View the Dataset**](#link-to-dataset)  
+[**Explore the Dashboard**](https://github.com/ibrahimibyy/Game-SalesDashboard/blob/main/Games%20dashboard.pdf) | [**View the Dataset**](#link-to-dataset)  
 
 ---
